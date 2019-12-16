@@ -1,0 +1,10 @@
+Package: com.lauren.llwxextension
+Name: LLWXExtension
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: lauren
+Author: lauren
+Section: Tweaks
+Version: 0.0.1-195+debug
+Installed-Size: 384
